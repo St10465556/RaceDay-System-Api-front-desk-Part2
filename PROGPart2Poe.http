@@ -1,0 +1,6 @@
+@PROGPart2Poe_HostAddress = http://localhost:5107
+
+GET {{PROGPart2Poe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
